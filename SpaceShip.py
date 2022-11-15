@@ -16,7 +16,7 @@ print("*******************************************************")
 while True:
     chooseNumber = input("Enter your choose number: ")
     chooseNumber = int (chooseNumber)
-    if(chooseNumber > 0 and chooseNumber < 13):
+    if(chooseNumber > 0 and chooseNumber < 3):
         break
 if(chooseNumber == 1):
     #Choose playership in your way
